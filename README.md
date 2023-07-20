@@ -18,11 +18,3 @@ This repository provides Python code and resources for performing Sentiment and 
 
 5. Without NLTK: Provides alternative methods that do not rely on the NLTK library for Sentiment and Emotion Analysis.
 
-
-
-bash
-Copy code
-cd without_nltk/emotion_analysis
-python emotion_analysis.py
-Contribution
-Contributions to this repository are welcome! If you have improvements or additional methods for Sentiment and Emotion Analysis, feel free to submit a pull request.
